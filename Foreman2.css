@@ -1,0 +1,203 @@
+/*Foreman 2 CSS Library - Available from github.com/cjclake */
+
+/* Default Generic HTML Settings */
+
+body {
+	font-size: 12px;
+	color: #333;
+	background: #fff;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+/* Default Generic Typography */
+
+h1 { 
+font-size: 36px;
+font-family: Helvetica;
+ }
+
+h2 { 
+font-size: 30px;
+font-family: Helvetica;
+font-style: oblique;
+ }
+
+h3 { 
+font-size: 24px;
+font-family: Helvetica;
+ }
+
+h4 { 
+font-size: 18px;
+font-family: Helvetica;
+font-style: oblique;
+ }
+
+h5 { 
+font-size: 14px;
+font-family: Helvetica;
+ }
+
+h6 { 
+font-size: 12px;
+font-family: Helvetica;
+font-style: oblique;
+ }
+
+p { 
+font-size: 10px;
+font-family: Arial;
+ }
+ 
+/* Positioning Classes */
+
+.left {
+float: left !important;
+}
+
+.right {
+float:right !important;
+}
+
+.hidden {
+display: none;
+}
+
+.block {
+display: block;
+}
+
+.inline-block {
+display: inline-block;
+}
+
+.left-hanger {
+margin-left: 0;
+padding-left: 0;
+}
+
+.right-hanger {
+margin-right: 0;
+padding-right: 0;
+}
+
+.top-hanger {
+margin-top: 0;
+padding-top: 0;
+}
+
+.bottom-hanger {
+margin-bottom: 0;
+padding-bottom: 0;
+}
+
+.left-top-hanger {
+margin-left:0;
+margin-top:0;
+padding-left:0;
+padding-top:0;
+}
+
+.right-top-hanger {
+margin-right:0;
+margin-top:0;
+padding-right:0;
+padding-top:0;
+}
+
+.left-bottom-hanger {
+margin-left:0;
+margin-bottom:0;
+padding-left:0;
+padding-bottom:0;
+}
+
+.right-bottom-hanger {
+margin-right:0;
+margin-bottom:0;
+padding-right:0;
+padding-bottom:0;
+}
+
+.text-left {
+text-align: left;
+}
+
+.text-right {
+text-align: right;
+}
+
+.text-center {
+text-align: center;
+}
+
+/* Column Mixes */
+
+.first-fifth {
+width: 20%;
+float: left;
+}
+
+.second-fifth {
+width: 20%;
+float:left;
+margin-left: 20%;
+}
+
+.third-fifth {
+width: 20%;
+float:left;
+margin-left: 40%;
+}
+
+.fourth-fifth {
+width: 20%;
+float:left;
+margin-left: 60%;
+}
+
+.right-fifth {
+width: 20%;
+float:left;
+margin-left: 80%;
+}
+
+.left-third {
+width: 33%;
+float: left;
+}
+
+.mid-third {
+width: 33%;
+float: left;
+margin-left: 33%;
+}
+
+.right-third {
+width: 33%;
+float:left;
+margin-left: 66%;
+}
+
+.left-half {
+width: 50%;
+float: left;
+}
+
+.right-half {
+width: 50%;
+float: left;
+margin-left: 50%;
+}
+
+.single-column-bordered {
+width: 90%;
+float: left;
+margin-left: 5%;
+margin-right: 5%;
+}
+
+.single-columnunbordered {
+width: 100%;
+float: left;
+}

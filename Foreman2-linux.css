@@ -1,0 +1,48 @@
+/* Nicer Linux Typography */
+
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,700,800,300");
+
+h1 { 
+font-size: 36px;
+font-family: "Open Sans";
+font-weight: 800;
+ }
+
+h2 { 
+font-size: 30px;
+font-family: "Open Sans";
+font-style: oblique;
+font-weight: 700;
+ }
+
+h3 { 
+font-size: 24px;
+font-family: "Open Sans";
+font-weight: 700;
+ }
+
+h4 { 
+font-size: 18px;
+font-family: "Open Sans";
+font-style: oblique;
+font-weight: 700;
+ }
+
+h5 { 
+font-size: 14px;
+font-family: "Open Sans";
+font-weight: 400;
+ }
+
+h6 { 
+font-size: 12px;
+font-family: "Open Sans";
+font-style: oblique;
+font-weight: 400;
+ }
+
+p { 
+font-size: 10px;
+font-family: "Open Sans";
+font-weight: 300;
+ }

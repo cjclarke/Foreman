@@ -54,10 +54,14 @@ font-family: Arial;
  
 /* Text Decoration and Styling */
 
-.nodecoration {
+.no-decoration {
 	text-decoration: none;
 	text-shadow: none;
 	text-transform: none;
+}
+
+.shadow {
+	text-shadow: 1px 1px 1px #999;
 }
  
 /* Positioning Classes */

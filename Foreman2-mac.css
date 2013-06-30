@@ -1,0 +1,39 @@
+/* Better Mac OS X Typography */
+
+h1 { 
+font-size: 36px;
+font-family: "Lucida Grande";
+ }
+
+h2 { 
+font-size: 30px;
+font-family: "Lucida Grande";
+font-style: oblique;
+ }
+
+h3 { 
+font-size: 24px;
+font-family: "Lucida Grande";
+ }
+
+h4 { 
+font-size: 18px;
+font-family: "Lucida Grande";
+font-style: oblique;
+ }
+
+h5 { 
+font-size: 14px;
+font-family: "Lucida Grande";
+ }
+
+h6 { 
+font-size: 12px;
+font-family: "Lucida Grande";
+font-style: oblique;
+ }
+
+p { 
+font-size: 10px;
+font-family: Helvetica;
+ }

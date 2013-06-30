@@ -7,6 +7,9 @@ body {
 	color: #333;
 	background: #fff;
 	font-family: Helvetica, Arial, sans-serif;
+	line-height: 1.25;
+	word-spacing: 0em;
+	letter-spacing: 0em;
 }
 
 /* Default Generic Typography */
@@ -48,6 +51,14 @@ p {
 font-size: 10px;
 font-family: Arial;
  }
+ 
+/* Text Decoration and Styling */
+
+.nodecoration {
+	text-decoration: none;
+	text-shadow: none;
+	text-transform: none;
+}
  
 /* Positioning Classes */
 
